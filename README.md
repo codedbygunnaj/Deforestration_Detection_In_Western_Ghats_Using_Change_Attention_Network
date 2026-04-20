@@ -118,9 +118,6 @@ path = "/content/drive/MyDrive/minor2/data/minor_wGhats_tiles"
 
 ## 🧑‍💻 Author
 
-Gunaj Chugh
-B.Tech CSE | Jaypee Institute of Information Technology
-
 ---
 
 ## ⭐ If you like this project
